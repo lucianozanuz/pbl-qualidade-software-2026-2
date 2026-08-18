@@ -42,12 +42,15 @@
 
 ## 3. Exploração da aplicação
 
-> Cada integrante deve explorar pelo menos uma funcionalidade. Realizem uma operação esperada, uma alternativa ou inválida, uma repetição e, quando possível, uma execução em condição diferente.
+> Cada integrante deverá escolher e explorar uma funcionalidade, diferente das escolhidas pelos demais integrantes. Para a funcionalidade escolhida, cada integrante deve realizar:
+> - uma utilização esperada, com dados ou condições válidas;
+> - uma utilização alternativa, inválida ou incompleta.
 
-| ID | Integrante | Funcionalidade | Operação realizada | Condição utilizada | Resultado esperado | Resultado observado | Evidência |
-|---|---|---|---|---|---|---|---|
-| E01 | [nome] | [funcionalidade] | [passos resumidos] | [condição] | [resultado] | [resultado] | [evidência](docs/evidencias/atividade-01/arquivo.png) |
-| E02 | [nome] | [funcionalidade] | [passos resumidos] | [condição] | [resultado] | [resultado] | [evidência](docs/evidencias/atividade-01/arquivo.png) |
+
+| Integrante | Funcionalidade | O que foi realizado | O que foi observado | Evidência |
+|---|---|---|---|---|
+| [nome] | [funcionalidade] | [descrição curta das duas situações exploradas] | [comportamento real da aplicação nas duas situações] | [evidência](docs/evidencias/atividade-01/arquivo.png) |
+| [nome] | [funcionalidade] | [descrição curta das duas situações exploradas] | [comportamento real da aplicação nas duas situações] | [evidência](docs/evidencias/atividade-01/arquivo.png) |
 
 ### Observações da exploração
 
