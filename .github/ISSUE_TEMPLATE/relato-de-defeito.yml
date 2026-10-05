@@ -1,4 +1,4 @@
-name: Relato de defeito
+name: Relato de defeito (formulário)
 description: Registre uma falha encontrada durante a execução dos testes
 title: "[BUG] "
 labels:
