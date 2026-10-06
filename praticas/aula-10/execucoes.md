@@ -1,28 +1,20 @@
 # Execuções manuais: Aula 10
 
-## CT01: Pesquisar restaurante por especialidade existente
+### Execução CT01
 
-**Funcionalidade:** Pesquisar restaurantes  
-**Técnica utilizada:** Particionamento de equivalência  
-**Responsável:** [Nome do estudante]
+**Responsável:** Nome do estudante  
+**Data:** 06/10/2026  
+**Ambiente:** Chrome, computador, aplicação online  
+**Situação:** Passou | Falhou | Bloqueado
 
-### Pré-condições
+**Resultado esperado:**  
+[preencher]
 
-- A aplicação está disponível.
-- Existe pelo menos um restaurante associado à especialidade escolhida.
+**Resultado obtido:**  
+[preencher]
 
-### Dados de entrada
+**Evidência:**  
+evidencias/CT01-resultado.png
 
-**Especialidade:** [Informar uma especialidade existente, por exemplo, Pizza.]
-
-### Passos
-
-1. Acessar a aplicação LocalEats.
-2. Localizar o campo de pesquisa de restaurantes.
-3. Informar uma especialidade existente.
-4. Realizar a pesquisa.
-5. Observar os restaurantes apresentados.
-
-### Resultado esperado
-
-O sistema apresenta restaurantes relacionados à 
+**Defeito relacionado:**  
+#1, quando aplicável
