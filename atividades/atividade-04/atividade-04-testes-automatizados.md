@@ -10,7 +10,6 @@
 - **Modalidade:** [individual / dupla / trio / equipe de quatro integrantes]
 - **Repositório:** [colar o link do repositório]
 - **Diretório da atividade:** [colar o link direto para este diretório]
-- **Commit avaliado:** `[informar o hash do commit final]`
 - **Data da última execução:** [dd/mm/aaaa]
 
 ### Integrantes
@@ -181,8 +180,6 @@ Depois, registre o resultado:
 - **Link para o relatório:** [relatorio-pytest.txt](relatorio-pytest.txt)
 - **Observações:** [informar falhas conhecidas ou escrever “Todos os testes foram aprovados”]
 
-O relatório deve corresponder ao commit informado na identificação.
-
 ---
 
 ## 7. Explicações individuais
@@ -215,7 +212,7 @@ O uso de inteligência artificial é permitido como apoio, mas todo o conteúdo 
 
 ## 9. Diferenciais opcionais
 
-Marque somente os diferenciais realmente implementados e inclua os respectivos links.
+Marque somente os diferenciais realmente implementados e inclua ao lado os respectivos links.
 
 - [ ] Terceiro teste unitário para caso de borda.
 - [ ] Uso de `pytest.raises` para verificar exceção.
@@ -233,28 +230,3 @@ Marque somente os diferenciais realmente implementados e inclua os respectivos l
 [Descreva os diferenciais implementados e informe os arquivos correspondentes. Remova esta seção caso nenhum diferencial tenha sido desenvolvido.]
 
 ---
-
-## 10. Links para os arquivos
-
-- **Implementação das regras:** [`src/regras_localeats.py`](src/regras_localeats.py)
-- **Testes unitários:** [`tests/test_regras_localeats.py`](tests/test_regras_localeats.py)
-- **Testes funcionais:** [`tests/test_localeats.py`](tests/test_localeats.py)
-- **Relatório do pytest:** [`relatorio-pytest.txt`](relatorio-pytest.txt)
-- **Requirements:** [`requirements.txt`](requirements.txt)
-- **Arquivos opcionais:** [informar, se houver]
-
----
-
-## 11. Declaração de revisão
-
-Declaramos que:
-
-- executamos os testes descritos neste documento;
-- conferimos a correspondência entre o Markdown, o código e o relatório do pytest;
-- revisamos as sugestões produzidas por inteligência artificial;
-- conseguimos explicar os testes identificados como nossa responsabilidade;
-- o commit informado representa a versão final considerada para avaliação.
-
-**Integrantes:** [nomes]
-
-**Commit avaliado:** `[hash do commit]`
